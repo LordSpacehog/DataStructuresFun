@@ -1,4 +1,4 @@
 DataStructuresFun
 =================
 
-Me attempting to lern data structures.
+Me attempting to learn data structures.
